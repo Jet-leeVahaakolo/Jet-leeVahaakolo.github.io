@@ -1,0 +1,14 @@
+body {
+	background-image: url("BackGround.jpg");
+} 
+
+.title {
+	color: orange;
+	font-size: 70px;
+	margin-left: 20px;
+} 
+.about {
+	color: orange;
+	font-size: 40px;
+	margin-left: 20px;
+} 
